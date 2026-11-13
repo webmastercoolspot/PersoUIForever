@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: PersoUIForever
+## Notes: Masque la barre d'action 1 (re-affichee pour glisser-deposer, grimoire, metiers, vehicule) et affiche/deplace le compteur de FPS sous la minimap.
+## Author: Cool Spot
+## Version: 1
+## SavedVariables: PersoUIForeverDB
+PersoUIForever.lua
